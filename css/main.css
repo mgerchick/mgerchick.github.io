@@ -1,11 +1,52 @@
 body {
-    font-family: 'Lato', sans-serif;
-    font-weight: 300;
-    background-color: #697c7d;
+  background-color: #f2ece4;
+}
+
+section .row img {
+  margin: 20px;
+  width: 100%;
+}
+
+img {
+  width:100%;
+  max-width:350px;
+}
+
+.container {
+  padding: 20px;
+}
+
+.jumbotron {
+  align-items: center;
+  background-size: cover;
+  background-color: #f2ece4;
+}
+
+.fa-envelope {
+  color:#ADB4A1; 
+}
+
+.fa-linkedin {
+  color: #869A86;
+}
+
+.fa-github {
+  color: #5E8070;
+}
+
+.fa-twitter {
+  color: #336760;
+}
+/*
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i');
+@import url("https://fonts.googleapis.com/css?family=Heebo:400,500,600,900");
+
+body {
+    background-color: #f3ebe1;
   }
   
   header {
-    padding: 20px 0;
+    padding: 20px 20px;
   }
   
   header .row,
@@ -16,7 +57,7 @@ body {
   
   header h1 {
     font-weight: 700;
-    margin: 0;
+    margin: 10;
   }
   
   header nav {
@@ -28,14 +69,10 @@ body {
     padding: 0 20px;
     margin: 0;
   }
-  
-  .jumbotron {
-    display: flex;
-    align-items: center;
-    background-size: cover;
-    color: #ffffff;
-    height: 500px;
-    text-shadow: 0.25px 0.25px 0.25px #000000;
+
+  img {
+    width:100%;
+    max-width:300px;
   }
   
   .jumbotron h2 {
@@ -96,3 +133,4 @@ body {
     width: 32px;
     height: 32px;
   }
+  */
