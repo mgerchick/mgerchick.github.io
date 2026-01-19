@@ -30,6 +30,11 @@ img {
   color:#ce80d5; 
 }
 
-.fa-twitter {
+.fa-google-scholar {
   color:#ce80d5;
+}
+
+.smaller-list-text-spaced li {
+  font-size: 0.9rem;
+  margin-bottom: 5px;
 }
